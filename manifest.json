@@ -1,0 +1,1 @@
+{ "name": "RandomMessages", "description": "Adds random phrases and emojis to outgoing messages.", "authors": [ { "name": "Salvatore", "id": "0" } ], "main": "src/index.ts", "vendetta": { "icon": "SmileIcon" } }
