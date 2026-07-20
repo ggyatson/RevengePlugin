@@ -8,7 +8,7 @@ local TextService      = game:GetService("TextService")
 local LocalPlayer = Players.LocalPlayer
 
 local TurtleUI = {
-	Version      = "2.2.0",
+	Version      = "1.0.0",
 	ScreenGui    = nil,
 	Flags        = {},
 	Windows      = {},
